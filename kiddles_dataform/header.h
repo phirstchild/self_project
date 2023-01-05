@@ -1,5 +1,5 @@
 #ifndef _header_h_
-#def _included_
+#define _included_
 
 int personal_info(void);
 int new_reg(void);
